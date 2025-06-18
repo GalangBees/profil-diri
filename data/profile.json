@@ -1,0 +1,36 @@
+{
+    "name": "Galang Virgiawan Adi Saputra",
+    "description": "Saya seorang mahasiswa Politeknik Negeri Semarang yang saat ini sedang berada pada semester6.",
+    "profileImage": "images/dirisendiri.png",
+    "email": "galang.33222307@mhs.polines.ac.id",
+    "phone": "+62 (878) 8584-5032",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/galang-virgiawan-adi-saputra-ab661336a"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/GalangBees"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/galang_21s/?igsh=MW8xM3hjYm41enFocg%3D%3D#"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CVGalang.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electronic Engineering", "icon": "fas fa-heart-pulse", "level": 85},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 75},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+        {"name": "3D Design", "icon": "fas fa-3D", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 70},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 75},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 50}
+    ]
+}

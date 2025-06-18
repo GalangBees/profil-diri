@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "D3 Teknik Elektronika",
+        "year": "2022 - 2025",
+        "description": "Saya adalah seorang mahasiswa aktif di Politeknik Negeri Semarang yang saat ini sedang menempuh semester 6. Selama masa studi, saya telah mempelajari berbagai aspek dalam bidang teknik, khususnya yang berkaitan dengan penerapan teknologi dan sistem kendali. Sebagai mahasiswa tingkat akhir, saya berkomitmen untuk terus mengembangkan pengetahuan dan keterampilan praktis, baik melalui proyek akademik maupun eksplorasi mandiri. Saya tertarik pada pengembangan sistem berbasis mikrokontroler, Internet of Things (IoT), serta implementasi teknik pengendalian modern untuk kebutuhan industri dan kehidupan sehari-hari."
+    },
+    {
+        "university": "SMA Negeri 1 Gubug",
+		"logo": "images/LogoSMA.png",
+        "major": "Matematika dan Ilmu Pengetahuan Alam",
+        "year": "2018 - 2021",
+        "description": "Saya adalah seorang siswa jurusan MIPA yang memiliki ketertarikan kuat terhadap Ilmu Pengetahuan Alam dan Matematika. Bagi saya, sains dan matematika bukan hanya sekadar pelajaran, tetapi juga cara untuk memahami bagaimana dunia bekerja secara logis dan terstruktur. Minat ini mendorong saya untuk terus belajar, bereksperimen, dan mengeksplorasi berbagai konsep ilmiah, mulai dari fenomena alam hingga penerapan logika matematika dalam kehidupan sehari-hari. Dengan dasar ini, saya bercita-cita untuk melanjutkan studi dan berkontribusi dalam bidang sains dan teknologi di masa depan."
+    }
+]

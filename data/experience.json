@@ -1,0 +1,16 @@
+[
+    {
+        "company": "PT.Marimas Putera Kencana",
+		"logo":"images/logo-marimas.png",
+        "position": "Rekayasa Proses",
+        "year": "Agustus - November 2024",
+        "description": "Saya saat ini ditempatkan di Divisi Rekayasa Proses di PT Marimas Putera Kencana, dengan tanggung jawab utama dalam memperbaiki dan melakukan perawatan terhadap alat-alat produksi yang mengalami kerusakan. Dalam posisi ini, saya belajar langsung bagaimana proses industri dijalankan serta pentingnya ketepatan dan kecepatan dalam menangani kendala teknis. Pengalaman ini tidak hanya mengasah kemampuan teknis saya, tetapi juga melatih ketelitian, problem solving, dan kerja sama tim di lingkungan industri yang dinamis."
+    },
+	{
+        "company": "Polines Robotics Evolution",
+		"logo":"images/polirevo.png",
+        "position": "Elektronik",
+        "year": "2024 - Sekarang",
+        "description": "Saya merupakan bagian dari Divisi Robot SAR Indonesia dengan fokus pada bidang elektronik. Dalam peran ini, saya bertanggung jawab untuk merancang, mengembangkan, dan memperbaiki sistem elektronik yang digunakan dalam robot pencarian dan penyelamatan (SAR). Pengalaman ini memberikan saya pemahaman mendalam tentang penerapan elektronika dalam dunia nyata, khususnya dalam sistem yang membutuhkan keandalan tinggi dan respons cepat di situasi darurat. Saya terus mengembangkan keterampilan teknis serta kemampuan kerja tim untuk mendukung misi kemanusiaan melalui teknologi."
+    }
+]

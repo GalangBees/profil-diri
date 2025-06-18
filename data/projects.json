@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Robot line follower",
+        "year": "2023",
+        "fund": "Rp 250.000",
+        "role": "Electronic Engineer",
+        "image": "images/line follower.png",
+        "description": "Robot line follower adalah salah satu jenis robot paling dasar dan populer yang dirancang untuk mengikuti garis yang digambar di permukaan, biasanya berwarna hitam di latar belakang putih, atau sebaliknya. Garis tersebut berfungsi sebagai jalur yang harus diikuti robot."
+    },
+        {
+        "title": "Alat Monitoring aquarium otomatis",
+        "year": "2023",
+        "fund": "Rp 200.000",
+        "role": "Electronic Engineer",
+        "image": "images/aquarium.png",
+        "description": "Alat ini adalah perangkat yang dirancang untuk secara terus-menerus mengawasi berbagai parameter penting dalam akuarium. Tujuannya adalah untuk menjaga lingkungan akuarium tetap stabil dan optimal bagi kehidupan ikan, tanpa perlu intervensi manual yang sering dari pemiliknya."
+    },
+    {
+        "title": "Robot Arm",
+        "year": "2025",
+        "fund": "Rp 150.000",
+        "role": "Electronic Engineer",
+        "image": "images/robot arm.png",
+        "description": "Robot arm ini merupakan lengan robotik yang dikendalikan oleh mikrokontroler ESP32 dan dapat dioperasikan secara nirkabel melalui aplikasi Android menggunakan koneksi Bluetooth atau Wi-Fi. Sistem ini dilengkapi dengan beberapa derajat kebebasan (DOF) dan digerakkan oleh motor servo untuk memungkinkan gerakan seperti memutar, mengangkat, menurunkan, dan menjepit objek. Melalui antarmuka aplikasi Android, pengguna dapat mengendalikan setiap gerakan secara real-time menggunakan tombol, slider, atau joystick virtual. Penggunaan ESP32 memberikan keunggulan dalam kecepatan pemrosesan dan konektivitas, menjadikan robot arm ini ideal untuk media pembelajaran robotika, kendali jarak jauh, serta simulasi sistem otomatisasi berbasis mobile control."
+    }
+    	
+]
